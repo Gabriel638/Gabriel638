@@ -1,5 +1,15 @@
-### Hello there ! My name is Gabriel Medeiros. 👋
+# 👋Hello there !
+My name is Gabriel Medeiros, I am a curious and determined 22 years old man who is looking for new connections.
 
-![Gabriel´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel638&show_icons=true&theme=merko)
+## About me
+- 👨‍🎓 **Education:** Bachelor of Computer Science
+- 📚 **Currently Learning:** C# and React
+- 📧 **E-mail:** gabrielmedeiros.swe@gmail.com
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel638&show_icons=true&theme=default)
+## GitHub Stats & Main Languages
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel638&show_icons=true&theme=blue-green) 
+
+## GitHub - Main Languages
+<a href="https://github.com/gabriel638">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel638&layout=compact&langs_count=7&theme=blue-green" />
+</a>
