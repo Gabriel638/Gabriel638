@@ -1,5 +1,5 @@
 # 👋Hello there !
-My name is Gabriel Medeiros, I am a curious and determined 22 years old man who is looking for new connections.
+My name is Gabriel Medeiros, I am a curious and determined 22 years old who is looking for new connections.
 
 ## About me
 - 👨‍🎓 **Education:** Bachelor of Computer Science
