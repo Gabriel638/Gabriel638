@@ -1,1 +1,1 @@
-### Hi there my name is Gabriel Medeiros 👋
+### Hello there ! My name is Gabriel Medeiros. 👋
