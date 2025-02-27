@@ -4,7 +4,7 @@ My name is Gabriel Medeiros, I am a curious and determined 22 years old from Bra
 ## About me
 - 👨‍🎓 **Education:** Bachelor of Computer Science
 - 📚 **Currently Learning:** C# and React
-- 💼 **Currently Working:** JR. Systems Analyst at [Petrox](https://petrox.com.br/)
+- 💼 **Currently Working:** JR. Systems Analyst 
 - 📧 **E-mail:** gabrielmedeiros.swe@gmail.com
 
 ## GitHub Stats & Main Languages
