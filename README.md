@@ -1,10 +1,10 @@
 # 👋 Hello there !
-My name is Gabriel Medeiros, I am a curious and determined 22 years old from Brazil, who is looking for new connections in the world.
+My name is Gabriel Medeiros, I am a curious and determined person from Brazil, who is looking for new connections in the world.
 
 ## About me
 - 👨‍🎓 **Education:** Bachelor of Computer Science
-- 📚 **Currently Learning:** C# and React
-- 💼 **Currently Working:** JR. Systems Analyst 
+- 📚 **Currently Learning:** Devops and React
+- 💼 **Currently Working:** JR. Programmer at Sergipetec 
 - 📧 **E-mail:** gabrielmedeiros.swe@gmail.com
 
 ## GitHub Stats & Main Languages
