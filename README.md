@@ -1,4 +1,4 @@
-# 👋 Hello there !
+# 👋 Hello there ! <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabriel638.Gabriel638&"  />
 My name is Gabriel Medeiros, I am a curious and determined person from Brazil, who is looking for new connections in the world.
 
 ## About me
