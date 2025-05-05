@@ -9,8 +9,8 @@ My name is Gabriel Medeiros, I am a curious and determined person from Brazil, w
 
 ## GitHub Stats & Main Languages
 <div>
-<img height="180em" src=https://privaterepos-1pkeo3tod-gabriel-medeiros-projects-66837e44.vercel.app/api?username=gabriel638&show_icons=true&theme=blue-green"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel638&layout=compact&langs_count=7&theme=blue-green"/> 
+<img height="180em" src="https://privaterepos-1pkeo3tod-gabriel-medeiros-projects-66837e44.vercel.app/api/?username=gabriel638&show_icons=true&theme=blue-green"/>
+<img height="180em" src="https://privaterepos-1pkeo3tod-gabriel-medeiros-projects-66837e44.vercel.app/api/top-langs/?username=gabriel638&layout=compact&langs_count=7&theme=blue-green"/> 
 </div>
 
 ## 💻 Technologies
