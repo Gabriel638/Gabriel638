@@ -41,7 +41,7 @@ My name is Gabriel Medeiros, I am a curious and determined person from Brazil, w
 
 ## 📱 Social Medias & Contacts
 <div align="left">
-  <a href="gabrielmedeiros.swe@gmail.com" target="_blank">
+  <a href="mailto:gabrielmedeiros.swe@gmail.com?subject=Lets%20work%20together&body=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabrielmedeirosbarros/" target="_blank">
